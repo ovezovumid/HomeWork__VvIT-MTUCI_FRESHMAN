@@ -1,2 +1,0 @@
-& C:/Users/Умит/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/Users/Умит/Desktop/python/Лаба/3/1 задание.py"
-чвлчвл world!
